@@ -1,7 +1,7 @@
 ## This Repo is a few simple tools (calculators and code generators) written in Ruby. 
 
 resp.rb: is a responsive width calculator. Based on Ethan Marcotte's Responsive Web Design book. exp. - (target/context)*100
-ima.rb: sets up a code block for html anchor and image element - a href="" ><img src="" alt=""  /></a> 
+ima.rb: sets up a code block for html anchor and image element 
 
 
 ### To use (with ruby installed)
