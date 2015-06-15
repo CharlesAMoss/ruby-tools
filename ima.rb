@@ -15,4 +15,6 @@ styleTag = gets.chomp
 print "Entitled? (add a title tag)"
 titleTag = gets.chomp
 
+# output
+
 puts "<a href=\"#{image}\" #{titleTag} ><img src=\"#{image}\" alt=\"#{alt}\" #{classTag} #{styleTag} /></a>"

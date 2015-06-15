@@ -9,5 +9,7 @@ target = gets.to_f
 foo = target/context 
 bar = foo*100
 
+# output
+
 puts "width: #{bar}%;"
 
